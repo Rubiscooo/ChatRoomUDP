@@ -26,4 +26,4 @@ java ServerLogin
 * 群组列表
 * 图形化界面
 
-ChatRoomUDP是将ChatRoomTCP使用UDP改写，功能基本实现，但仍存在已知的Bug
+ChatRoomUDP是将ChatRoomTCP使用UDP改写，实现的功能和ChatRoomTCP一样
